@@ -1,4 +1,9 @@
-### Hi there 👋
+#### About Me
+I am a seasoned software engineer with currently >25 years in the trenches
+I recently rediscovered github and will try to bring to life all my pet projects I always thought of and didn't had the time to realize.
+I am mostly an android developer both application and platform.
+
+to be continued ...
 
 <!--
 **makicombi/makicombi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
